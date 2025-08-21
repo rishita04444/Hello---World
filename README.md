@@ -4,5 +4,9 @@ My first GitHub Repository
 Hi, I'm Rishita Goswami  
 - 🎓 BCA student  
 - 💻 Learning Python, C, Java  
-- 🚀 Goal: Build projects and contribute to open source  
+- 🚀 Goal: Build projects and contribute to open source
+# Progress  
+- ✅ Created repository  
+- ✅ Added code files  
+- ✅ Making commits
 
